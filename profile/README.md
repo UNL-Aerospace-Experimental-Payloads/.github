@@ -6,16 +6,18 @@ Additionally, we are sending up radio transmitters to study radio wave propagati
 We hope to drive community engagement by inviting ham radio enthusiasts to make contact with our payload during the flight. 
 During the school year, we plan to test our designs with high altitude balloon launches out of Innovation Campus.
 
-## Projects
+# Projects
 
-### 2026 NASA RockSat  
+## 2026 NASA RockSat  
 <img width="1600" height="1067" alt="rocksat" src="https://github.com/user-attachments/assets/1f2e9e25-ef2e-4ace-becd-3bd5d26e88ef" />
-### 2025 NASA High Altitude Student Platform  
+
+## 2025 NASA High Altitude Student Platform  
 <img width="1402" height="817" alt="Screenshot 2025-09-05 150008" src="https://github.com/user-attachments/assets/b81547c7-b65c-4232-8816-7ac7c00bf5fe" />
-### 2024 Nationwide Eclipse Ballooning Project  
+
+## 2024 Nationwide Eclipse Ballooning Project  
 <img width="667" height="1000" alt="21_1_667x1000" src="https://github.com/user-attachments/assets/552bcd03-b33f-4392-a186-27f310b1c775" />
 
-### 2021 - 2024 Big Red Satellite  
+## 2021 - 2024 Big Red Satellite  
 <img width="1920" height="1080" alt="My project-1" src="https://github.com/user-attachments/assets/87c8a46f-5d46-4c6f-a239-d37c1d4b07d7" />
 
 [BRS Github Org](https://github.com/Big-Red-Sat)
