@@ -14,8 +14,15 @@ During the school year, we plan to test our designs with high altitude balloon l
 ## 2025 NASA High Altitude Student Platform  
 <img width="1402" height="817" alt="Screenshot 2025-09-05 150008" src="https://github.com/user-attachments/assets/b81547c7-b65c-4232-8816-7ac7c00bf5fe" />
 
-## 2024 Nationwide Eclipse Ballooning Project  
+Our payload, nicknamed BRS1.5, carried a newer generation of the perovskite solar cells tested by BRS1, as well as the same (and this time functional) sun vector sensor.  
+[HASP Test Launch Report](https://lukedoughty.me/pdfs/EmbeddedHABHonorsReport_Doughty.pdf)  
+[HASP Downlink Website](https://hasp.lukedoughty.me/)  
+[Project Repository](https://github.com/Big-Red-Sat/High-Altitude-Student-Platform)  
+## 2023 - 2024 Nationwide Eclipse Ballooning Project  
 <img width="667" height="1000" alt="21_1_667x1000" src="https://github.com/user-attachments/assets/552bcd03-b33f-4392-a186-27f310b1c775" />
+
+[Nebraska NEBP Eclipse Experience](https://www.iastatedigitalpress.com/ahac/article/17948/galley/16266/view/)
+Paper by Kendra Sibbernsen detailing the program and our high altitude balloon launches out of Roswell, NM and Carbondale, IL
 
 ## 2021 - 2024 Big Red Satellite  
 <img width="1920" height="1080" alt="My project-1" src="https://github.com/user-attachments/assets/87c8a46f-5d46-4c6f-a239-d37c1d4b07d7" />
