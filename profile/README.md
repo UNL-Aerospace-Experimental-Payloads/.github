@@ -1,15 +1,12 @@
 # UNL Aerospace eXperimental Payloads team
-AXP is a team of university students who do science in space and the upper atmosphere. 
-This year we are creating a payload which will literally go to space (150km altitude) on a steep suborbital trajectory. 
-We plan to study how atomic oxygen at the edge of space can degrade electrical components. 
-Additionally, we are sending up radio transmitters to study radio wave propagation at different altitudes. 
-We hope to drive community engagement by inviting ham radio enthusiasts to make contact with our payload during the flight. 
-During the school year, we plan to test our designs with high altitude balloon launches out of Innovation Campus.
+The University of Nebraska-Lincoln High Altitude eXperimental Payloads (AXP) student team specializes in conducting important science in space and the upper atmosphere. The team takes on a new project every year, building on the accumulated knowledge and experience. Our team has made significant contributions to the scientific community in Nebraska as well as national scale. Past projects include Big Red Satellite; the first cube satellite developed in Nebraska and launched into space. This project was done in partnership with the National Renewable Energy Laboratory (NREL). The purpose of the mission was to test the efficiency and lifetime of perovskite solar panels in space for aerospace applications. As a successor to this mission, our team created a scientific high altitude balloon payload through NASA’s High Altitude Student Platform continuing research on the longevity of perovskite solar cells.
 
 # Projects
 
 ## 2026 NASA RockSat  
 <img width="1600" height="1067" alt="rocksat" src="https://github.com/user-attachments/assets/1f2e9e25-ef2e-4ace-becd-3bd5d26e88ef" />
+
+UNL-AXP’s recent research has been in the study of broadband dielectric spectroscopy (BDS) and measuring the degradation of electrical components in space. The experiment uses broadband dielectric spectroscopy to non-destructively track molecular-scale degradation and shielding properties of FEP-coating stacks in real time. The team hopes to observe how atomic oxygen interacts with fluoropolymer films containing organic coating in low Earth orbit. Atomic oxygen is rare and expensive to produce in large quantities down on earth, but prevalent in low Earth orbit. The scientific payload the team has been building will be flown 170km into space onboard a Terrier-Improved Malemute sounding rocket with NASA’s RockSat program. At the start of the experiment window, the rocket’s skirt will be ejected providing the payloads with exposure to space. During this time, the team’s experiment payload will be in contact with expected levels of atomic oxygen and will use BDS to measure the interactions in real time. UNL-AXP intends to build on the merits of this research and apply it to providing electrochemical shielding for microcircuitry in space, with the hopes of enabling the integration of AI technology for orbital hardware.
 
 ## 2025 NASA High Altitude Student Platform  
 <img width="1402" height="817" alt="Screenshot 2025-09-05 150008" src="https://github.com/user-attachments/assets/b81547c7-b65c-4232-8816-7ac7c00bf5fe" />
