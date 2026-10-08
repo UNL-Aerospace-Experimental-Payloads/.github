@@ -2,20 +2,24 @@
 The University of Nebraska-Lincoln High Altitude eXperimental Payloads (AXP) student team specializes in conducting important science in space and the upper atmosphere. The team takes on a new project every year, building on the accumulated knowledge and experience. Our team has made significant contributions to the scientific community in Nebraska as well as national scale. Past projects include Big Red Satellite; the first cube satellite developed in Nebraska and launched into space. This project was done in partnership with the National Renewable Energy Laboratory (NREL). The purpose of the mission was to test the efficiency and lifetime of perovskite solar panels in space for aerospace applications. As a successor to this mission, our team created a scientific high altitude balloon payload through NASA’s High Altitude Student Platform continuing research on the longevity of perovskite solar cells.
 
 # Projects
+## 2027 Quartz Crystal Microbalance on NASA RockSat
+<img width="1600" height="1067" alt="rocksat" src="https://github.com/user-attachments/assets/a313c40e-50c9-494c-a4e3-c0de90ef208f" />
+The team has ambitions to deploy a new cube satellite called NEUROX Sat which will the degradation of RRAM devices (Neuromorphic Computers) in the atomic oxygen rich environment of low earth orbit. A crucial step in this mission is to develop an in-situ measurement device for quantifying atomic oxygen flux. This is the purpose of this year's RockSat payload. The team is developing its own quartz crystal microbalance (QCM) that fits in the form factor of a cube sat and is resistant to the extreme temperature changes of space flight.
 
-## 2026 NASA RockSat  
-<img width="1600" height="1067" alt="rocksat" src="https://github.com/user-attachments/assets/1f2e9e25-ef2e-4ace-becd-3bd5d26e88ef" />
+## 2026 Broadband Dielectric Spectroscopy on NASA RockSat
+<img width="1797" height="1797" alt="BDSPayload2" src="https://github.com/user-attachments/assets/314c87d4-2a63-4646-b3f6-525a96de26d4" />
 
-UNL-AXP’s recent research has been in the study of broadband dielectric spectroscopy (BDS) and measuring the degradation of electrical components in space. The experiment uses broadband dielectric spectroscopy to non-destructively track molecular-scale degradation and shielding properties of FEP-coating stacks in real time. The team hopes to observe how atomic oxygen interacts with fluoropolymer films containing organic coating in low Earth orbit. Atomic oxygen is rare and expensive to produce in large quantities down on earth, but prevalent in low Earth orbit. The scientific payload the team has been building will be flown 170km into space onboard a Terrier-Improved Malemute sounding rocket with NASA’s RockSat program. At the start of the experiment window, the rocket’s skirt will be ejected providing the payloads with exposure to space. During this time, the team’s experiment payload will be in contact with expected levels of atomic oxygen and will use BDS to measure the interactions in real time. UNL-AXP intends to build on the merits of this research and apply it to providing electrochemical shielding for microcircuitry in space, with the hopes of enabling the integration of AI technology for orbital hardware.
+UNL-AXP’s research has been in the study of broadband dielectric spectroscopy (BDS) and measuring the degradation of electrical components in space. The experiment uses broadband dielectric spectroscopy to non-destructively track molecular-scale degradation and shielding properties of FEP-coating stacks in real time. The team hopes to observe how atomic oxygen interacts with fluoropolymer films containing organic coating in low Earth orbit. Atomic oxygen is rare and expensive to produce in large quantities down on earth, but prevalent in low Earth orbit. The scientific payload the team has been building will be flown 170km into space onboard a Terrier-Improved Malemute sounding rocket with NASA’s RockSat program. At the start of the experiment window, the rocket’s skirt will be ejected providing the payloads with exposure to space. During this time, the team’s experiment payload will be in contact with expected levels of atomic oxygen and will use BDS to measure the interactions in real time. UNL-AXP intends to build on the merits of this research and apply it to providing electrochemical shielding for microcircuitry in space, with the hopes of enabling the integration of AI technology for orbital hardware.
 
-## 2025 NASA High Altitude Student Platform  
+## 2025 NASA High Altitude Student Platform
 <img width="1402" height="817" alt="Screenshot 2025-09-05 150008" src="https://github.com/user-attachments/assets/b81547c7-b65c-4232-8816-7ac7c00bf5fe" />
 
 Our payload, nicknamed BRS1.5, carried a newer generation of the perovskite solar cells tested by BRS1, as well as the same (and this time functional) sun vector sensor.  
 [HASP Test Launch Report](https://lukedoughty.me/pdfs/EmbeddedHABHonorsReport_Doughty.pdf)  
 [HASP Downlink Website](https://hasp.lukedoughty.me/)  
 [Project Repository](https://github.com/Big-Red-Sat/High-Altitude-Student-Platform)  
-## 2023 - 2024 Nationwide Eclipse Ballooning Project  
+
+## 2024 Nationwide Eclipse Ballooning Project  
 <img width="667" height="1000" alt="21_1_667x1000" src="https://github.com/user-attachments/assets/552bcd03-b33f-4392-a186-27f310b1c775" />
 
 [Nebraska NEBP Eclipse Experience](https://www.iastatedigitalpress.com/ahac/article/17948/galley/16266/view/)
